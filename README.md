@@ -39,10 +39,21 @@ will bring more revenue).
 
 
 ### results/conclusion
-- Hyderabad, Rajanna Sircilla, Jayashankar Bhoopalpally, Yadadri Bhongir, Hanumakonda, Mahbubnagar, Bhadradri Kothagudem, Medak, Nirmal, Jagtial came out as the top 10 districts with the highest number of domestic visitors that entered the state of Telangana from 2016 to 2022.
+- Hyderabad, Rajanna Sircilla, Jayashankar Bhupalpally, Yadadri Bhongir, Hanumakonda, Mahbubnagar, Bhadradri Kothagudem, Medak, Nirmal, Jagtial came out as the top 10 districts with the highest number of domestic visitors that entered the state of Telangana from 2016 to 2022.
 - Hyderabad had a total of 107 million local tourists, ranking as the number one district among the top 10 districts that are performing well, with a percentage contribution of local visitors at 27%.
 --The top 10 districts contributed to a significant portion out of the total of 25 districts, accounting for 83% of local tourists visiting the state, while other districts contributed only 17% to the state's total tourist entries.
-- Nizamabad, Jayashankar Bhoopalpally and Mancherial were the top 3 districts that grew at a compound annual rate of 80%, 73%, and 49% for visitors, respectively, betweeen 2016 and 2022.
-  Karimnagar, Hanumakonda, and Nalgonda were the top 3 districts that had a growth of a compound annual rate at -51%, -43%, and -37% respectively for visitors betweeen 2016 and 2022.
+- Nizamabad, Jayashankar Bhupalpally and Mancherial were the top 3 districts that grew at a compound annual rate of 80%, 73%, and 49% for visitors, respectively, betweeen 2016 and 2022.
+- Nizambad has the highest growth rate for visitors due to these following  factors:
+   - The Nizam Sagar reservoir is on the other side of the Manjira River in Nizamabad, which is a tributary of the Godavari River, tourists can go boating, which in itself is an unforgettable experience.
+   - Ashok Sagar Lake, 7 km from Nizamabad, also attracts tourists with its serene beauty.
+   - Nizamabad has one of the most popular spots among nature lovers at Alisagar Deer Park which boasts of the famous golden stag along with other species of deer.
+- Karimnagar, Hanumakonda, and Nalgonda were the bottom 3 districts that had a negative growth at a compound annual rate of  -51%, -43%, and -37% respectively for visitors betweeen 2016 and 2022.
+- Hyderabad had its peak month in June due to the following consideration:
+    - Moderate to heavy rainfall
+    - Greener surroundings and pleasant weather
+    - Ideal for visiting attractions like Golconda Fort, Birla Planetarium etc
+    - Budget-friendly stays
+    - Temperatures ranging from 22-30 degree Celsius
+  
 
 
