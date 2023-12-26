@@ -38,10 +38,11 @@ bottom districts which can improve the foreign visitors as foreign visitors
 will bring more revenue).
 
 
-### results/observations
-- Hyderabad, Rajanna Sircilla, Jayashankar Bhoopalpally, Yadadri Bhongir, Hanumakonda, Mahbubnagar, Bhadradri Kothagudem, Medak, Nirmal and Jagtial came out as the top 10 districts with the highest number of 
-  local tourists.
+### results/conclusion
+- Hyderabad, Rajanna Sircilla, Jayashankar Bhoopalpally, Yadadri Bhongir, Hanumakonda, Mahbubnagar, Bhadradri Kothagudem, Medak, Nirmal, Jagtial came out as the top 10 districts with the highest number of domestic visitors that entered the state of Telangana from 2016 to 2022.
 - Hyderabad had a total of 107 million local tourists, ranking as the number one district among the top 10 districts that are performing well, with a percentage contribution of local visitors at 27%.
--The top 10 districts contributed to a significant portion, accounting for 83% of local tourists visiting the state, while other districts contributed only 17% to the state's total tourist entries
+--The top 10 districts contributed to a significant portion out of the total of 25 districts, accounting for 83% of local tourists visiting the state, while other districts contributed only 17% to the state's total tourist entries.
+- Nizamabad, Jayashankar Bhoopalpally and Mancherial were the top 3 districts that grew at a compound annual rate of 80%, 73%, and 49% for visitors, respectively, betweeen 2016 and 2022.
+  Karimnagar, Hanumakonda, and Nalgonda were the top 3 districts that had a growth of a compound annual rate at -51%, -43%, and -37% respectively for visitors betweeen 2016 and 2022.
 
 
