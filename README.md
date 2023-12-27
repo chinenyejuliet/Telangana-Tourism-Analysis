@@ -9,6 +9,7 @@
 - [Results and Findings](#results-and-findings)
 - [Recommendation](#recommendation)
 - [Limitation](limitation)
+- [Reference](#reference)
   
   
 ## Project Overview
@@ -111,6 +112,9 @@ Based on the analysis we recommend the following:
 ### Limitations
 - Some of the districts in the states were removed from the analysis due incomplete data.
 - I replaced zero values in the foreign visitors column and replace them with one because they would have affected the accuracy calculating CAGR from analysis.
+
+### Reference
+Resources for this analysis was provided by Code Basics [visit page](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 
 
