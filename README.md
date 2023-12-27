@@ -13,7 +13,7 @@
   
   
 ## Project Overview
-The purpose of this project is to analyse the growth of number of Foreign and Domestic arrivals to different districts in the state of Telagana from 2016 to 2022. To develop an in-depth understanding of the state's datasets for domestic and foreign visitors, identify trends and patterns, make data-driven recommendation and provide insights for the Telegana Government Tourism Department.
+The purpose of this project is to analyse the growth of number of Foreign and Domestic arrivals to different districts in the state of Telagana from 2016 to 2022. To develop an in-depth understanding of the state's datasets for domestic and foreign visitors, identify trends and patterns, make data-driven recommendation and provide insights for the Telegana Government Tourism Department. Telangana is one of India’s leading states and has published its tourism data under its open data policy.
 
 
 
@@ -114,7 +114,8 @@ Based on the analysis we recommend the following:
 - I replaced zero values in the foreign visitors column and replace them with one because they would have affected the accuracy calculating CAGR from analysis.
 
 ### Reference
-Resources for this analysis was provided by Code Basics [visit page](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+This is a Project taken from Resume Project Challenge 5  organized by Codebasics and Atliq Technologies [visit page](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+**Credits**: The dataset is taken from Open Data Telangana. Thanks to Telangana Government for providing real-time datasets for public access which is a great learning asset - feel free to explore them here. (https://data.telangana.gov.in/)
 
 
 
