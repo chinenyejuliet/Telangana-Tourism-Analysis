@@ -4,8 +4,13 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#data-cleaning/preparation)
-
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis ](#exploratory-data-analysis)
+- [Results and Findings](#results-and-findings)
+- [Recommendation](#recommendation)
+- [Limitation](limitation)
+  
+  
 ## Project Overview
 The purpose of this project is to analyse the growth of number of Foreign and Domestic arrivals to different districts in the state of Telagana from 2016 to 2022. To develop an in-depth understanding of the state's datasets for domestic and foreign visitors, identify trends and patterns, make data-driven recommendation and provide insights for the Telegana Government Tourism Department.
 
@@ -17,14 +22,14 @@ The primary data used for this analysis is the "Tourism Foreign Visitors Data.cs
 - Excel - For Data Cleaning and Analysis.
 - Excel _ For Dashboard Visualization.
 
-### Data Cleaning/Preparation
+### Data Cleaning and Preparation
 In the process of data cleaning/preparation, we perfomed the following task:
 - Data loading and inspection.
 - Merging various datasets.
 - Handling missing values and correcting mispelled data.
 - Data cleaning and formatting.
   
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis 
 EDA involves exploring visitor's datasets and answering the following questions:
 1. List down the top 10 districts that have the highest number of domestic
 visitors overall (2016 - 2022) (Insight: Get an overview of districts that are doing well).
@@ -44,7 +49,7 @@ bottom districts which can improve the foreign visitors as foreign visitors
 will bring more revenue).
 
 
-### results/findings
+### Results and Findings
 - Hyderabad, Rajanna Sircilla, Jayashankar Bhupalpally, Yadadri Bhongir, Hanumakonda, Mahbubnagar, Bhadradri Kothagudem, Medak, Nirmal, Jagtial came out as the top 10 districts with the highest number of domestic visitors that entered the state of Telangana from 2016 to 2022.
 - Hyderabad had a total of 107 million local tourists, ranking as the number one district among the top 10 districts that are performing well, with a percentage contribution of local visitors at 27%.
 --The top 10 districts contributed to a significant portion out of the total of 25 districts, accounting for 83% of local tourists visiting the state, while other districts contributed only 17% to the state's total tourist entries.
@@ -99,7 +104,7 @@ Based on the analysis we recommend the following:
 
 ### Limitations
 - Some of the districts in the states were removed from the analysis due incomplete data.
-- We replace replaced number of visitors that has zero values with one to aid in calculating CAGR.
+- I replaced zero values in the foreign visitors column and replace them with one because they would have affected the accuracy calculating CAGR from analysis.
 
 
 
