@@ -80,7 +80,7 @@ will bring more revenue).
   - Temperatures ranging between 30 degrees to 42 degree Celsius.
 - Rajanna Sircilla, Yadadri Bhongir, and Bhadradri Kothagudem shows the bottom 3 districts with high domestic to foreign ratio 58066197.00, 39469211.00, and 24973497.00 respectively.
 - Hyderabad, Kamareddy, and Warangal shows the bottom 3 districts with high domestic to foreign ratio  92.32, 3084.00, and 3142.40 respectively.
-- Hyderabad has a significant influx of both domestic and foreign tourist in its districts.
+- Hyderabad district has most significant influx of both domestic and foreign tourists in Telangana state.
 - This large influx of tourists in Hyderabad is caused by following factors:
     - Hyderabad is the capital of one of the most technology savvy state in India,Telangana.
     - Hyderabad is often referred to as the 'City of Pearls' due to its significant pearl trade. The city boasts historical monuments, including the iconic Charminar, which remains a key attraction for tourists visiting the state.
