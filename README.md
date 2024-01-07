@@ -22,7 +22,7 @@ The purpose of this project is to analyse the growth of number of Foreign and Do
 
 
 ### Data Sources
-The primary data used for this analysis is the "Tourism Foreign Visitors Data.csv" and "Tourism Domestic Visitors Data.csv" containing detail visitors of the the number of foreign and domestic visitors that entered into various districts in the state of Telangana fro 2014 to 2022.
+The primary data used for this analysis is the "Tourism Foreign Visitors Data.csv" and "Tourism Domestic Visitors Data.csv" containing detail visitors of the the number of foreign and domestic visitors that entered into various districts in the state of Telangana fro 2014 to 2022.The dataset is taken from Open Data Telangana. Thanks to Telangana Government for providing real-time datasets for public access which is a great learning asset - feel free to explore them here.[click here](https://data.telangana.gov.in/)
 
 ### Tools
 - Excel Power Query - For Data Extraction, Transformation and Loading.
