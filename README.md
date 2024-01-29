@@ -111,7 +111,7 @@ Based on the analysis we recommend the following:
 
 ### Limitations
 - Some of the districts in the states were removed from the analysis due incomplete data.
-- I replaced zero values in the foreign visitors column and replace them with one because they would have affected the accuracy calculating CAGR from analysis.
+- I replaced zero values in the foreign visitors column and replace them with one (since it does not have any effect on the analysis) because they would have affected the accuracy calculating CAGR from analysis.
 
 ### Reference
 This is a Project taken from Resume Project Challenge 5  organized by Codebasics and Atliq Technologies [visit page](https://codebasics.io/challenge/codebasics-resume-project-challenge)
